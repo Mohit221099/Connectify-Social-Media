@@ -1,4 +1,4 @@
-# 🚀 Connectify - A Modern Social Media Platform
+# 🚀 ConnectifyByMohit- A Modern Social Media Platform
 
 Connectify is a **feature-rich** social media platform built using the **MERN stack** (MongoDB, Express.js, React, Node.js). It offers real-time communication, interactive content sharing, and a seamless user experience.
 
@@ -46,7 +46,7 @@ npm start
 Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## 📄 License
-This project is licensed under the **MIT License**.
+This project is licensed And Managed under Mohit kumar .
 
 ---
 ⭐ **Star this repo** if you find it useful! 🚀
